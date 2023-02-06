@@ -95,7 +95,9 @@ nav ul{
 }
 
 
-
+.change{
+    width: 200px;
+}
 
 @media screen and (max-width: 950px)
 {

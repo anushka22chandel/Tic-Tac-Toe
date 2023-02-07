@@ -5,7 +5,7 @@
 }
 
 nav{
-    background-color: rgb(37, 9, 37);
+    background:linear-gradient(1deg,rgb(153, 72, 85),rgb(187, 238, 238));
     color: white;
     height: 65px;
     font-size: 27px;

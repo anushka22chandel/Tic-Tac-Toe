@@ -62,6 +62,7 @@ reset.addEventListener('click', ()=>{
     turn = "X"; 
     isgameover = false
     document.getElementsByClassName("info")[0].innerText  = "Turn for " + turn;
-    document.querySelector('.imgbox').getElementsByTagName('img')[0].style.display = "none";
+    document.querySelector('.imgbox').getElementsByTagName('img')[0].style.width = "0";
+
 })
 

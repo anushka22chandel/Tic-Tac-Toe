@@ -4,9 +4,18 @@
     padding: 0;
 }
 
+body{
+    background:linear-gradient(-180deg,rgb(174, 174, 235),rgb(241, 216, 170));
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+
+
+    
+}
+
 nav{
-    background:linear-gradient(1deg,rgb(153, 72, 85),rgb(187, 238, 238));
-    color: white;
+       color: white;
     height: 65px;
     font-size: 27px;
     display: flex;

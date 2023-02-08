@@ -1,0 +1,31 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-image: url(img.jpg);
+    color: white;
+    font-size: larger;
+    padding-top: 40vh;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+body h1{
+    font-size: 90px;
+    margin-bottom: 20px;
+
+}
+
+a
+{
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 18px;
+}
